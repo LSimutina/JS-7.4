@@ -1,0 +1,17 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Simutina Lidiya",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "jest-puppeteer": "^6.2.0",
+    "puppeteer": "^13.7.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
